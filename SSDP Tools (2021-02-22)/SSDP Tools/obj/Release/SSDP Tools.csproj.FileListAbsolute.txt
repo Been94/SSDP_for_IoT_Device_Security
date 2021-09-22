@@ -1,0 +1,27 @@
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\SSDP Tools.exe.config
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\SSDP Tools.exe
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\SSDP Tools.pdb
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\MetroFramework.dll
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\MetroFramework.Fonts.dll
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PacketDotNet.dll
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PcapDotNet.Base.dll
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PcapDotNet.Core.dll
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PcapDotNet.Core.Extensions.dll
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PcapDotNet.Packets.dll
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\SharpPcap.dll
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PcapDotNet.Base.pdb
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PcapDotNet.Base.xml
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PcapDotNet.Core.pdb
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PcapDotNet.Core.xml
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PcapDotNet.Core.Extensions.pdb
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PcapDotNet.Core.Extensions.xml
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PcapDotNet.Packets.pdb
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\bin\Release\PcapDotNet.Packets.xml
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\obj\Release\SSDP Tools.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\obj\Release\SSDP_Tool.Form1.resources
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\obj\Release\SSDP_Tools.Properties.Resources.resources
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\obj\Release\SSDP Tools.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\obj\Release\SSDP Tools.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\obj\Release\SSDP Tools.csproj.CopyComplete
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\obj\Release\SSDP Tools.exe
+C:\Users\admin\source\repos\SSDP Tools\SSDP Tools\obj\Release\SSDP Tools.pdb
